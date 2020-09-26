@@ -1,4 +1,4 @@
-#Time is Running Out
+# Time is Running Out
 
 This is the repository for my visual argument for Composing Digital Media. My
 current idea is to create an argument that calls for action against climate
