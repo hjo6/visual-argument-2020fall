@@ -2,7 +2,7 @@
 For my visual argument, I sought to create an image that conveyed the urgency behind the idea
 of the Doomsday Clock. As the website defines it, "The Doomsday Clock is a design that warns the public about how
 close we are to destroying our world with dangerous technologies of our own making. It is a metaphor, a reminder of the
-perils we must address if we are to survive on the planet" [ (Source).](https://thebulletin.org/doomsday-clock/faq/) To briefly summarize, the Doomsday Clock represents how close we are to destroying our world. In January 2020, it was announced that we were officially 100 Seconds to Midnight.
+perils we must address if we are to survive on the planet" [ (Source).](https://thebulletin.org/doomsday-clock/faq/) To briefly summarize, the Doomsday Clock represents how close we are to destroying our world. In January 2020, it was announced that we are officially 100 Seconds to Midnight.
 
 To represent this idea visually, I decided to take an image of the Earth and modify each of the colors to make the Earth
 look dry, desolate, and uninhabitable. To do this, I selected the "Image" drop bar at the top of GIMP, then switched
